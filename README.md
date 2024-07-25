@@ -1,14 +1,5 @@
 # 100 Must-Know Data Scientist Interview Questions
 
-<div>
-<p align="center">
-<a href="https://devinterview.io/questions/machine-learning-and-data-science/">
-<img src="https://firebasestorage.googleapis.com/v0/b/dev-stack-app.appspot.com/o/github-blog-img%2Fmachine-learning-and-data-science-github-img.jpg?alt=media&token=c511359d-cb91-4157-9465-a8e75a0242fe" alt="machine-learning-and-data-science" width="100%">
-</a>
-</p>
-
-#### You can also find all 100 answers here 👉 [Devinterview.io - Data Scientist](https://devinterview.io/questions/machine-learning-and-data-science/data-scientist-interview-questions)
-
 <br>
 
 ## 1. What is _Machine Learning_ and how does it differ from traditional programming?
